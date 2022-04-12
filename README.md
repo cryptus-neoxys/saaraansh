@@ -1,26 +1,30 @@
 # Inspiration ✨
 
-<strong>Around the world, millions of adults are unable to read or write, and therefore fall prey to the extremely confusing jargon of lengthy legal documents. India has the highest adult illiteracy rate in the world. According to the latest report published by UNESCO, there are 287 million illiterate adults in India—37 percent of the illiterate population in the entire world. Farmers, manual laborers, and the people below the poverty line don't have access to education, therefore do not understand the legal terms and even can't understand the language of the document which are generally in English, and fall trap to financial debts in many cases. Therefore, we present to you Saaransh</strong>
+<strong>Millions of individuals throughout the world are unable to read or write, making them vulnerable to the exceedingly perplexing language of long legal paperwork. India has the world's highest adult illiteracy rate. According to the most recent UNESCO data, India has 287 million illiterate adults, accounting for 37% of the world's illiterate population.
+
+Farmers, manual labourers, and individuals living in poverty lack access to education, and as a result, they are unable to comprehend legal words and, in many cases, the language of the documents, which are written in English. As a result, they are prone to financial debt. As a result, we present Saaraansh to you.</strong>
 
 <p  align="center"><img  src = "https://github.com/cryptus-neoxys/saaraansh/blob/main/public/logo-text.png"></p>
 
 # What it does 🙌
 
-We built an easy-to-use web app that summarizes the lengthy legal documents into easy-to-understand terms and then convert them to the local language of the individual so that he/she is completely aware of what they are signing for by simpy uploading/taking a picture of the document.
+Saaraansh is a simple online tool that summarises lengthy legal papers into easy-to-understand phrases and then converts them to the individual's native language so that he or she understands exactly what they are signing by simply uploading/taking a picture of the document.
+The software works as follows:
 
-The app works like this: The users can submit the documents they want to understand and the app uses an API to process the document and gives the user back a simplified and summarised document in their regional language.
+- Users upload papers they wish to understand
+- The app utilises an API to process the document
+- Then provides a simplified and summarised document in their preferred regional language
 
-This supplies the user with a much easier-to-understand document with which they can understand the broader terms of the document and can make a decision whether they should go ahead with the agreements or not.
+This provides the user with a lot easier-to-read document with which they can grasp the document's larger provisions and decide whether or not to proceed with the agreements.
 
 <p  align="center"><img  src = "https://github.com/cryptus-neoxys/saaraansh/blob/main/public/readme1.png"></p>
 <p  align="center"><img  src = "https://github.com/cryptus-neoxys/saaraansh/blob/main/public/readme2.png"></p>
 
 # How we built it 💡
 
-1. The website UI/UX will be designed using Figma and then developed with Next.js, The React Framework and Tailwind CSS for UI, Tensorflow.js, Python, and GCP API to translate the summary to the regional language.
-2. We’ll use the open-source framework of Hugging Face to create the document summarizer using Natural Language Processing.
-3. We used OCR Tesseract.js to implement the text recognition feature.
-4. We will implement the Web App using cutting-edge web technologies like NextJs as React framework, nextAuth for handling auth, and Tailwind CSS for rapid prototyping.
+1. The website's UI/UX was created with Figma and then built with Next.js a ReactJS Framework, and Tailwind CSS for the UI, Tensorflow.js, Python, and the Google Cloud Platform API to convert the summary to the regional language.
+1. To develop the document summarizer utilising Natural Language Processing, the Hugging Face open-source framework has been used.
+1. The OCR text recognition capability was implemented using OCR Tesseract.js.
 
 # Novelty 🥇
 
@@ -67,7 +71,7 @@ There is no existing software to create accurate summarization text with transla
 ### Try it out 👇🏽
 
 - 👤 [Github](https://github.com/cryptus-neoxys/saaraansh)
-- 🕸 [The Website](https://saaraansh.netlify.app/)
+- 🕸 [The Website](https://saaraansh.vercel.app/)
 
 # The team
 
