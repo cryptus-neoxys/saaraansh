@@ -28,7 +28,7 @@ This provides the user with a lot easier-to-read document with which they can gr
 
 # Novelty 🥇
 
-There is no existing software to create accurate summarization text with translation features. Adapting from the different research papers on legal document summarization, we are adding 2 novel features on translating the summary to regional languages and text to voice conversion for better understanding.
+There is no software available that can generate a summarising text for Legal Docs with translation capabilities. Two features have been added to the summary to convert the summary to regional languages and text to voice conversion for improved comprehension and usage, based on several research papers on legal document summaries.
 
 # Future Aspects ✔
 
